@@ -1,5 +1,5 @@
 <h2 align="left">
-  Olá, sou Pedro Henrique da Silva Santos, especializado em desenvolvimento web
+  Olá, sou Pedro Henrique, especializado em desenvolvimento web
   com foco em HTML, CSS e JavaScript.
 </h2>
 
