@@ -1,4 +1,4 @@
-<h3 align="left">Olá, sou Pedro Henrique da Silva Santos, especializado em desenvolvimento web com foco em HTML, CSS e JavaScript.</h3>
+<h2 align="left">Olá, sou Pedro Henrique da Silva Santos, especializado em desenvolvimento web com foco em HTML, CSS e JavaScript.</h2>
 
 ###
 
@@ -32,3 +32,4 @@
 <img src="https://raw.githubusercontent.com/pedrohendev/pedrohendev/output/snake.svg" alt="Snake animation" />
 
 ###
+
